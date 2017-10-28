@@ -23,6 +23,6 @@ body {
     color: rgba(0,0,0,0.4)
 }
 
-/*#info-2{*/
-    /*background: #9E1B34;*/
-/*}*/
+.bg-dark{
+    background: #262F36;
+}
