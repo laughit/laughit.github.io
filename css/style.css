@@ -32,3 +32,16 @@ body {
         flex-basis: 50%;
     }
 }
+
+.list-border-y li{
+    border-top: 1px solid;
+}
+
+.list-bordyer-y li:last-child{
+    border-bottom: 1px solid;
+}
+
+.list-border-black-20 li,
+.list-border-black-2o li:last-child{
+    border-color: rgba(0,0,0,0.2)
+}
